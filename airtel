@@ -276,6 +276,8 @@ group-title="IRAN",IRIB 5
 http://cdn1.live.irib.ir:1935/e-tv/tv5-1mb.stream/playlist.m3u8
 group-title="IRAN",Baran
 http://cdn1.live.irib.ir:1935/e-tv/baran-1mb.stream/playlist.m3u8
+group-title="IRAN",Tamasha
+http://cdn1.live.irib.ir:1935/e-tv/tamasha-1mb.stream/playlist.m3u8
 
 
 
