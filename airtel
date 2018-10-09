@@ -157,6 +157,8 @@ http://cshms1.airtel.tv/wh7f454c46tw673999847_1638131756/PLTV/88888888/224/32212
 http://cshms1.airtel.tv/wh7f454c46tw3645026212_1914837314/PLTV/88888888/224/3221226122/01.m3u8
 #EXTINF:0,MH1
 http://cshms3.airtel.tv/wh7f454c46tw4224282976_1458672585/PLTV/88888888/224/3221226114/05.m3u8
+#EXTINF:0,India News
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 #EXTINF:0,Aaj Tak
 http://mhms8.airtel.tv/wh7f454c46tw2835240406_542441726/PLTV/88888888/224/3221226425/01.m3u8
 #EXTINF:0,Zee News
