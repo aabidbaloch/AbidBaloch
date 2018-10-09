@@ -246,4 +246,10 @@ http://stream.tapmad.com:1935/pitvlive/waseeb3.stream/chunklist.m3u8
 http://178.162.221.228/wazirahls/live.m3u8
 #EXTINF:0, group-title="Pakistan",Zaiqa TV
 http://stream.tapmad.com:1935/pitvlive/zaiqatv3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Din News
+https://www.youtube.com/watch?v=Aqg2gncILBE
+#EXTINF:0, group-title="Pakistan",Hum News Live
+https://www.youtube.com/watch?v=GMNJAruCO5I
+#EXTINF:0, group-title="Pakistan",Samaa News
+https://www.youtube.com/watch?v=C8Aoxj5C_4
 
