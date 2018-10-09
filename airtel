@@ -29,6 +29,8 @@ http://mhms9.airtel.tv/wh7f454c46tw3056491567_1335714350/PLTV/88888888/224/32212
 http://cshms2.airtel.tv/wh7f454c46tw1035051186_1445643697/PLTV/88888888/224/3221225791/01.m3u8
 #EXTINF:0,Neo Prime
 http://cshms2.airtel.tv/wh7f454c46tw2485062378_1766544415/PLTV/88888888/224/3221225789/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://inkblingdesigns.files.wordpress.com/2015/07/endpage.jpg" group-title="INDIA",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 #EXTINF:0,BBO HD
 http://185.21.217.18:7071/xyz/bbo/chunks.m3u8?nimblesessionid=3200432&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTggMTE6NTk6NTIgQU0maGFzaF92YWx1ZT1KRmlaUFY0aUlEaUtLOFhGMkYvNTVnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,And Pictures HD
@@ -254,4 +256,7 @@ https://www.youtube.com/watch?v=GMNJAruCO5I
 https://www.youtube.com/watch?v=C8Aoxj5C_4
 EXTINF:0, group-title="Dubai",Dubai Tv
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
-
+group-title="IRAN",VoA
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="INDIA",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
