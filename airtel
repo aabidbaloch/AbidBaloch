@@ -258,9 +258,9 @@ https://www.youtube.com/watch?v=GMNJAruCO5I
 https://www.youtube.com/watch?v=C8Aoxj5C_4
 #EXTINF:0, group-title="Urdu",Channel Win
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
-EXTINF:0, group-title="Dubai",Dubai Tv
+#EXTINF:0,group-title="DUBAI",Dubai Tv
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
-EXTINF:0, group-title="IRAN",VOA
+#EXTINF:0,group-title="IRAN",VOA
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="INDIA",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
