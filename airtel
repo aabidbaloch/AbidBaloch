@@ -169,4 +169,8 @@ http://cshms2.airtel.tv/wh7f454c46tw743913076_1544470615/PLTV/88888888/224/32212
 http://cshms2.airtel.tv/wh7f454c46tw1377923115_1869270561/PLTV/88888888/224/3221225732/01.m3u8
 #EXTINF:0,TV 24
 http://cshms1.airtel.tv/wh7f454c46tw976796339_661019192/PLTV/88888888/224/3221226476/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b.jpeg" group-title="LATINO",Miami TV [+18]
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1,JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
