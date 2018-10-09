@@ -1,38 +1,18 @@
 #EXTM3U
 #EXTINF:0,Sony Ten 1 HD
 http://cshms2.airtel.tv/wh7f454c46tw495963728_2126617999/PLTV/88888888/224/3221225875/01.m3u8
-#EXTINF:0,Sony Ten 2 HD
-http://media3.airtel.tv/out/u/PLTV/ten2-hd-enc-stack1_1.m3u8?m=1529484618
-#EXTINF:0,Sony Ten 3 HD
-http://media4.airtel.tv/out/u/PLTV/ten3-hd-enc-stack2_1.m3u8?m=1529484756
 #EXTINF:0,Sony SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw2186455526_1658913362/PLTV/88888888/224/3221225780/01.m3u8
 #EXTINF:0,Sony ESPN HD
 http://cshms2.airtel.tv/wh7f454c46tw1896705638_1306215693/PLTV/88888888/224/3221226076/02.m3u8
 #EXTINF:0,D Sports HD
 http://cshms4.airtel.tv/wh7f454c46tw1484737716_987805823/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:0,Willow HD
-http://163.172.42.245:8081/bang/gtv/playlist.m3u8
-#EXTINF:0,Star Sports 1 HD
-http://185.21.217.79:7071/abcd/starsphd1/chunks.m3u8?nimblesessionid=19707893&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTggMTI6MDg6MDggUE0maGFzaF92YWx1ZT1mUjVXbjlVQmhDWFlGYUVMck1oSkVRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:0,Star Sports 2 HD
-http://185.21.217.79:7071/abcd/starsphd2/chunks.m3u8?nimblesessionid=19708860&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTggMTI6MDk6MDQgUE0maGFzaF92YWx1ZT1ka1pyTGE4R0lXaEpLei9aUTVNNm1nPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:0,Star Sports Select 1
-http://185.21.216.149:7071/abcd/starspselect1/chunks.m3u8?nimblesessionid=26497789&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTggMTI6MDU6NDIgUE0maGFzaF92YWx1ZT1hSFoxa1QveWlBdTl5UlplT3BYbUt3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:0,Star Sports Select 2
-http://185.21.216.149:7071/abcd/starspselect2/chunks.m3u8?nimblesessionid=26499476&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTggMTI6MDY6NDUgUE0maGFzaF92YWx1ZT02TlNQZGJWMzljOUVnK2wxcEllUWhRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:0,Sky Sports Cricket
-http://163.172.38.45:8081/sp/ch/playlist.m3u8
 #EXTINF:0,DD Sports
 http://mhms9.airtel.tv/wh7f454c46tw3056491567_1335714350/PLTV/88888888/224/3221226346/01.m3u8
 #EXTINF:0,Neo Sports
 http://cshms2.airtel.tv/wh7f454c46tw1035051186_1445643697/PLTV/88888888/224/3221225791/01.m3u8
-#EXTINF:0,Neo Prime
-http://cshms2.airtel.tv/wh7f454c46tw2485062378_1766544415/PLTV/88888888/224/3221225789/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://inkblingdesigns.files.wordpress.com/2015/07/endpage.jpg" group-title="INDIA",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
-#EXTINF:0,BBO HD
-http://185.21.217.18:7071/xyz/bbo/chunks.m3u8?nimblesessionid=3200432&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTggMTE6NTk6NTIgQU0maGFzaF92YWx1ZT1KRmlaUFY0aUlEaUtLOFhGMkYvNTVnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,And Pictures HD
 http://mhms7.airtel.tv/wh7f454c46tw370492022_1524141589/PLTV/88888888/224/3221226203/03.m3u8
 #EXTINF:0,And Pictures
