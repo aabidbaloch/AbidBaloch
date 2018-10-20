@@ -248,6 +248,19 @@ https://www.youtube.com/watch?v=C8Aoxj5C_4
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 #EXTINF:0, group-title="Uk",ARY DIGITEL
 http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:0, group-title="Uk",POP
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/441.m3u
+#EXTINF:0, group-title="Uk",POP2
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/442.m3u
+#EXTINF:0, group-title="Uk",Chant Show Hits
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/443.m3u
+#EXTINF:0, group-title="Uk",Disnep
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/020.m3u
+#EXTINF:0, group-title="Uk",WILD HD
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/035.m3u
+NATIONAL GEOGRAPHIC
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/040.m3u
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/613.m3u 
 #EXTINF:0, group-title="UK",SET MAX
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/613.m3u8
 #EXTINF:0, group-title="UK",Star plus
@@ -278,6 +291,8 @@ http://eirking.pro:8080/live/exchange/sGFHK47UC6/627.m3u8
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/628.m3u8
 #EXTINF:0, group-title="UK",REDLIGHT HD
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/629.m3u8
+#EXTINF:0, group-title="UK",PRIVATE HD
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/1569.m3u8
 #EXTINF:0, group-title="UK",PASSIE XXX
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/630.m3u8
 #EXTINF:0,group-title="DUBAI",Dubai Tv
