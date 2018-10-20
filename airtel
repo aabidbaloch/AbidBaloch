@@ -246,12 +246,51 @@ https://www.youtube.com/watch?v=GMNJAruCO5I
 https://www.youtube.com/watch?v=C8Aoxj5C_4
 #EXTINF:0, group-title="Urdu",Channel Win
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="Uk",ARY DIGITEL
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:0, group-title="UK",SET MAX
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/613.m3u8
+#EXTINF:0, group-title="UK",Star plus
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/585.m3u8
+#EXTINF:0, group-title="UK",Star Gold
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/587.m3u8
+#EXTINF:0, group-title="UK",B4u Movies
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/588.m3u8
+#EXTINF:0, group-title="UK",Sony movie
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/589.m3u8
+#EXTINF:0, group-title="UK",baby Tv
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/575.m3u8
+#EXTINF:0, group-title="UK",ZEE TV
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/601.m3u8
+#EXTINF:0, group-title="UK",ZEE CINEME HD
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/602.m3u8
+#EXTINF:0, group-title="UK",24P
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/623.m3u8
+#EXTINF:0, group-title="UK",venus
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/624.m3u8
+#EXTINF:0, group-title="UK",16
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/625.m3u8
+#EXTINF:0, group-title="UK",hustler HD
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/626.m3u8
+#EXTINF:0, group-title="UK",Brazzers TV EUROPE
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/627.m3u8
+#EXTINF:0, group-title="UK",Erotic 4
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/628.m3u8
+#EXTINF:0, group-title="UK",REDLIGHT HD
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/629.m3u8
+#EXTINF:0, group-title="UK",PASSIE XXX
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/630.m3u8
 #EXTINF:0,group-title="DUBAI",Dubai Tv
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 #EXTINF:0,group-title="IRAN",VOA
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="INDIA",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:0,group-title="IN",Peace Tv Urdu
+http://199.167.151.237:1935/live/sp15_4.stream/gmswf.m3u8
+#EXTINF:0,group-title="Yaman",Al Yamen
+http://199.167.151.237:1935/live/sp15_18.stream/gmswf.m3u8
+
 
 
 
