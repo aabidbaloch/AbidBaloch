@@ -294,7 +294,10 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/chunklist_b307200_slFa.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv2/chunklist_b307200_slFa.m3u8
 #EXTINF:0,group-title="IRAN",IRIB3
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv3/chunklist_b307200_slFa.m3u8
-
+#EXTINF:0,group-title="IRAN",IRIB4
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv4/chunklist_b307200_slFa.m3u8
+#EXTINF:0,group-title="IRAN",IRIB5
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv5/chunklist_b307200_slFa.m3u8
 
 
 
