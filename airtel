@@ -276,24 +276,6 @@ http://eirking.pro:8080/live/exchange/sGFHK47UC6/575.m3u8
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/601.m3u8
 #EXTINF:0, group-title="UK",ZEE CINEME HD
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/602.m3u8
-#EXTINF:0, group-title="UK",24P
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/623.m3u8
-#EXTINF:0, group-title="UK",venus
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/624.m3u8
-#EXTINF:0, group-title="UK",16
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/625.m3u8
-#EXTINF:0, group-title="UK",hustler HD
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/626.m3u8
-#EXTINF:0, group-title="UK",Brazzers TV EUROPE
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/627.m3u8
-#EXTINF:0, group-title="UK",Erotic 4
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/628.m3u8
-#EXTINF:0, group-title="UK",REDLIGHT HD
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/629.m3u8
-#EXTINF:0, group-title="UK",PRIVATE HD
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/1569.m3u8
-#EXTINF:0, group-title="UK",PASSIE XXX
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/630.m3u8
 #EXTINF:0,group-title="DUBAI",Dubai Tv
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 #EXTINF:0,group-title="IRAN",VOA
@@ -304,8 +286,14 @@ http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 http://199.167.151.237:1935/live/sp15_4.stream/gmswf.m3u8
 #EXTINF:0,group-title="Yaman",Al Yamen
 http://199.167.151.237:1935/live/sp15_18.stream/gmswf.m3u8
-
-
+#EXTINF:0,group-title="IRAN",MOSTAND
+http://cdn1.live.irib.ir:1935/channel-live/smil:mostanad/chunklist_b307200_slFa.m3u8
+#EXTINF:0,group-title="IRAN",IRIB1
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/chunklist_b307200_slFa.m3u8
+#EXTINF:0,group-title="IRAN",IRIB2
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv2/chunklist_b307200_slFa.m3u8
+#EXTINF:0,group-title="IRAN",IRIB3
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv3/chunklist_b307200_slFa.m3u8
 
 
 
