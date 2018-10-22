@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1,UK@ Star Plus HD.
 http://188.93.238.184:8000/live/snet/snet/37932.ts
-#EXTINF:-1,UK@ Star Bharat.
+#EXTINF:-1,UK@ Star
+http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_1200.m3u8
+EXTINF:-1,UK@ S
 http://188.93.238.184:8000/live/snet/snet/22412.ts
 #EXTINF:-1,UK@ Star Life OK
 http://188.93.238.184:8000/live/snet/snet/11300.ts
@@ -938,4 +940,3 @@ http://188.93.238.184:8000/live/snet/snet/336.ts
 #EXTINF:-1,Afg: Pezhvak Show (.)
 http://188.93.238.184:8000/live/snet/snet/334.ts
 #EXTINF:-1,Afg: Srood (.)
-http://188.93.238.184:8000/live/snet/snet/330.ts
