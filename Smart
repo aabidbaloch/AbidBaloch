@@ -17,3 +17,21 @@ http://eirking.pro:8080/live/exchange/sGFHK47UC6/629.m3u8
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/1569.m3u8
 #EXTINF:0, group-title="UK",PASSIE XXX
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/630.m3u8
+#EXTINF:-1,Playboy TV
+http://195.181.160.217:25461/live/Lazaro/123/4342.m3u8
+#EXTINF:-1,Playboy TV HD
+http://195.181.160.217:25461/live/Lazaro/123/10358.m3u8
+#EXTINF:-1,Playboy TV HD [Alternativo]
+http://195.181.160.217:25461/live/Lazaro/123/11129.m3u8
+#EXTINF:-1,Sexy Hot
+http://195.181.160.217:25461/live/Lazaro/123/4329.m3u8
+#EXTINF:-1,Sexy Hot [Alternativo]
+http://195.181.160.217:25461/live/Lazaro/123/11126.m3u8
+#EXTINF:-1,Sextreme
+http://195.181.160.217:25461/live/Lazaro/123/4330.m3u8
+#EXTINF:-1,Sextreme [Alternativo]
+http://195.181.160.217:25461/live/Lazaro/123/11125.m3u8
+#EXTINF:-1,Venus
+http://195.181.160.217:25461/live/Lazaro/123/6081.m3u8
+#EXTINF:-1,Venus [Alternativo]
+http://195.181.160.217:25461/live/Lazaro/123/11124.m3u8
