@@ -886,6 +886,379 @@ http://85.93.93.132:8000/live/caper/caper/3173.m3u8
 http://85.93.93.132:8000/live/caper/caper/3172.m3u8
 #EXTINF:-1,IN: Zoom UK IN
 http://85.93.93.132:8000/live/caper/caper/3171.m3u8
-
+#EXTINF:-1,_*_*_*INDIAN TV_'_*_*
+http://portal.simiptv.com:8001/live/priya/12345/5233.m3u8
+#EXTINF:-1,-----Asian-UK(TIME)-----
+http://portal.simiptv.com:8001/live/priya/12345/12948.m3u8
+#EXTINF:-1,AajTak (UK)
+http://portal.simiptv.com:8001/live/priya/12345/21993.m3u8
+#EXTINF:-1,Aastha TV (UK)
+http://portal.simiptv.com:8001/live/priya/12345/21994.m3u8
+#EXTINF:-1,IN@Hindi Bhajans HD
+http://portal.simiptv.com:8001/live/priya/12345/15365.m3u8
+#EXTINF:-1,ABP NEWS (UK)
+http://portal.simiptv.com:8001/live/priya/12345/21995.m3u8
+#EXTINF:-1,& TV (UK)
+http://portal.simiptv.com:8001/live/priya/12345/14724.m3u8
+#EXTINF:-1,IN:& Picture HD.
+http://portal.simiptv.com:8001/live/priya/12345/2240.m3u8
+#EXTINF:-1,NDTV NEWS( UK)
+http://portal.simiptv.com:8001/live/priya/12345/2308.m3u8
+#EXTINF:-1,IN:ABP NEWS
+http://portal.simiptv.com:8001/live/priya/12345/2338.m3u8
+#EXTINF:-1,B4U Movies (UK)
+http://portal.simiptv.com:8001/live/priya/12345/6714.m3u8
+#EXTINF:-1,B4U Music (UK)
+http://portal.simiptv.com:8001/live/priya/12345/2330.m3u8
+#EXTINF:-1,Brit Asia (UK)
+http://portal.simiptv.com:8001/live/priya/12345/2407.m3u8
+#EXTINF:-1,Imagine Movies (UK)
+http://portal.simiptv.com:8001/live/priya/12345/22334.m3u8
+#EXTINF:-1,COLORS TV (UK)
+http://portal.simiptv.com:8001/live/priya/12345/7824.m3u8
+#EXTINF:-1,Sony Entertainment UK.
+http://portal.simiptv.com:8001/live/priya/12345/7263.m3u8
+#EXTINF:-1,Sony Mix (UK).
+http://portal.simiptv.com:8001/live/priya/12345/25836.m3u8
+#EXTINF:-1,SONY SETMAX (UK)
+http://portal.simiptv.com:8001/live/priya/12345/7841.m3u8
+#EXTINF:-1,Sony SAB (UK)
+http://portal.simiptv.com:8001/live/priya/12345/2248.m3u8
+#EXTINF:-1,STAR BHARAT (UK)
+http://portal.simiptv.com:8001/live/priya/12345/2234.m3u8
+#EXTINF:-1,Star Gold (UK)
+http://portal.simiptv.com:8001/live/priya/12345/9102.m3u8
+#EXTINF:-1,STAR PLUS (UK) L
+http://portal.simiptv.com:8001/live/priya/12345/7274.m3u8
+#EXTINF:-1,STAR PLUS >HD<(UK)
+http://portal.simiptv.com:8001/live/priya/12345/23592.m3u8
+#EXTINF:-1,STAR UTSAV (UK)
+http://portal.simiptv.com:8001/live/priya/12345/15374.m3u8
+#EXTINF:-1,Rishtey Europe (UK)
+http://portal.simiptv.com:8001/live/priya/12345/7276.m3u8
+#EXTINF:-1,Star Utsav Movies (UK)
+http://portal.simiptv.com:8001/live/priya/12345/2370.m3u8
+#EXTINF:-1,RISHTEY CINEPLEX (UK)
+http://portal.simiptv.com:8001/live/priya/12345/13203.m3u8
+#EXTINF:-1,IN:Venus TV (UK)
+http://portal.simiptv.com:8001/live/priya/12345/18610.m3u8
+#EXTINF:-1,ZEE Cinema  ( UK)
+http://portal.simiptv.com:8001/live/priya/12345/7258.m3u8
+#EXTINF:-1,Zee Anmol Cinema  (UK)
+http://portal.simiptv.com:8001/live/priya/12345/24860.m3u8
+#EXTINF:-1,ZEE TV (UK)
+http://portal.simiptv.com:8001/live/priya/12345/2279.m3u8
+#EXTINF:-1,ZING (UK)
+http://portal.simiptv.com:8001/live/priya/12345/5236.m3u8
+#EXTINF:-1,IN:ZEE ETC BOLLYWOOD
+http://portal.simiptv.com:8001/live/priya/12345/8986.m3u8
+#EXTINF:-1,--------Asian-INDIA(TIME)--------
+http://portal.simiptv.com:8001/live/priya/12345/12949.m3u8
+#EXTINF:-1,-----Entertainment CHANNEL--------
+http://portal.simiptv.com:8001/live/priya/12345/13670.m3u8
+#EXTINF:-1,&TV HD (IN)
+http://portal.simiptv.com:8001/live/priya/12345/18276.m3u8
+#EXTINF:-1,IN:DD India
+http://portal.simiptv.com:8001/live/priya/12345/23694.m3u8
+#EXTINF:-1,Colors TV SD (IN)
+http://portal.simiptv.com:8001/live/priya/12345/7826.m3u8
+#EXTINF:-1,Star Bharat SD (IN)
+http://portal.simiptv.com:8001/live/priya/12345/7857.m3u8
+#EXTINF:-1,Rishtey Asia SD (IN)
+http://portal.simiptv.com:8001/live/priya/12345/7277.m3u8
+#EXTINF:-1,Star Plus SD (IN)
+http://portal.simiptv.com:8001/live/priya/12345/13001.m3u8
+#EXTINF:-1,Sahara One
+http://portal.simiptv.com:8001/live/priya/12345/22331.m3u8
+#EXTINF:-1,ZEE TV SD (IN)
+http://portal.simiptv.com:8001/live/priya/12345/7869.m3u8
+#EXTINF:-1,YP::FOOD FOOD UK
+http://portal.simiptv.com:8001/live/priya/12345/18584.m3u8
+#EXTINF:-1,IN: SONY ENTERTAINMENT
+http://portal.simiptv.com:8001/live/priya/12345/23591.m3u8
+#EXTINF:-1,SONY MAX 2 (IN)
+http://portal.simiptv.com:8001/live/priya/12345/7840.m3u8
+#EXTINF:-1,IN:SONY SAB ASIA (SD)
+http://portal.simiptv.com:8001/live/priya/12345/7838.m3u8
+#EXTINF:-1,SONY PAL (IN)
+http://portal.simiptv.com:8001/live/priya/12345/16634.m3u8
+#EXTINF:-1,IN:Zee Anmol
+http://portal.simiptv.com:8001/live/priya/12345/2369.m3u8
+#EXTINF:-1,------MUSIC CHANNEL------
+http://portal.simiptv.com:8001/live/priya/12345/13671.m3u8
+#EXTINF:-1,IN:YRF | Music
+http://portal.simiptv.com:8001/live/priya/12345/13224.m3u8
+#EXTINF:-1,Zee Music Company (IN)
+http://portal.simiptv.com:8001/live/priya/12345/16992.m3u8
+#EXTINF:-1,E24 Music (IN)
+http://portal.simiptv.com:8001/live/priya/12345/15056.m3u8
+#EXTINF:-1,MTV-IN
+http://portal.simiptv.com:8001/live/priya/12345/9713.m3u8
+#EXTINF:-1,IN:9 XM
+http://portal.simiptv.com:8001/live/priya/12345/16632.m3u8
+#EXTINF:-1,MUSIC INDIA (IN)
+http://portal.simiptv.com:8001/live/priya/12345/13222.m3u8
+#EXTINF:-1,IN:ZOOM
+http://portal.simiptv.com:8001/live/priya/12345/16631.m3u8
+#EXTINF:-1,------MOVIES CHANNEL--------
+http://portal.simiptv.com:8001/live/priya/12345/13672.m3u8
+#EXTINF:-1,IN:& PICTURE HD
+https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+#EXTINF:-1,IN:B4U Movies
+http://portal.simiptv.com:8001/live/priya/12345/21879.m3u8
+#EXTINF:-1,B4U PLUS (UK)
+http://portal.simiptv.com:8001/live/priya/12345/14701.m3u8
+#EXTINF:-1,SONY LE PLEX (IN)
+http://portal.simiptv.com:8001/live/priya/12345/16635.m3u8
+#EXTINF:-1,Hindi ACTION Movies (IN)
+http://portal.simiptv.com:8001/live/priya/12345/16120.m3u8
+#EXTINF:-1,IN:MBC BOLLYWOOD HD
+http://portal.simiptv.com:8001/live/priya/12345/13482.m3u8
+#EXTINF:-1,Movies OK -IN)
+http://portal.simiptv.com:8001/live/priya/12345/16994.m3u8
+#EXTINF:-1,IN:Sony Max SD/HD
+http://portal.simiptv.com:8001/live/priya/12345/13435.m3u8
+#EXTINF:-1,UTV Movies inter (UK)
+http://portal.simiptv.com:8001/live/priya/12345/15341.m3u8
+#EXTINF:-1,IN:Rishtey Cineplex India
+http://portal.simiptv.com:8001/live/priya/12345/23754.m3u8
+#EXTINF:-1,IN:Dabangg HD
+http://portal.simiptv.com:8001/live/priya/12345/14547.m3u8
+#EXTINF:-1,IN:ZEE ACTION HD
+http://portal.simiptv.com:8001/live/priya/12345/7273.m3u8
+#EXTINF:-1,IN:Zee Bollywood
+http://portal.simiptv.com:8001/live/priya/12345/2372.m3u8
+#EXTINF:-1,IN:SAHARA FILMI
+http://portal.simiptv.com:8001/live/priya/12345/7818.m3u8
+#EXTINF:-1,IN:ZEE CINEMA
+http://portal.simiptv.com:8001/live/priya/12345/14848.m3u8
+#EXTINF:-1,IN:WOW Cinema
+http://portal.simiptv.com:8001/live/priya/12345/16125.m3u8
+#EXTINF:-1,------NEWS CHANNEL------
+http://portal.simiptv.com:8001/live/priya/12345/9104.m3u8
+#EXTINF:-1,IN:DD News
+http://portal.simiptv.com:8001/live/priya/12345/2394.m3u8
+#EXTINF:-1,IN@News World India
+http://portal.simiptv.com:8001/live/priya/12345/14675.m3u8
+#EXTINF:-1,IN:JANTA TV
+http://portal.simiptv.com:8001/live/priya/12345/24229.m3u8
+#EXTINF:-1,IN:NEWS 18 INDIA
+http://portal.simiptv.com:8001/live/priya/12345/24236.m3u8
+#EXTINF:-1,IN:IBC 24 NEWS
+http://portal.simiptv.com:8001/live/priya/12345/24241.m3u8
+#EXTINF:-1,IN:CNBC News 18 (NEWS)
+http://portal.simiptv.com:8001/live/priya/12345/19860.m3u8
+#EXTINF:-1,IN: IBN 7 (NEWS)
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+#EXTINF:-1,IN:INDIA TV NEWS
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:-1,IN: NEWS X (NEWS) '
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w1159112955_b256000.m3u8
+#EXTINF:-1,IN:NDTV INDIA (HINDI) NEWS
+http://portal.simiptv.com:8001/live/priya/12345/7849.m3u8
+#EXTINF:-1,IN:Sadhana Plus News
+http://portal.simiptv.com:8001/live/priya/12345/26456.m3u8
+#EXTINF:-1,IN: ET NOW (News)
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1,Mirror Now (News) -IN
+http://portal.simiptv.com:8001/live/priya/12345/25820.m3u8
+#EXTINF:-1,IN:Times NOW (NEWS)
+http://portal.simiptv.com:8001/live/priya/12345/14369.m3u8
+#EXTINF:-1,IN:ZEE NEWS HD
+http://portal.simiptv.com:8001/live/priya/12345/7816.m3u8
+#EXTINF:-1,IN:Zee Business
+http://portal.simiptv.com:8001/live/priya/12345/7831.m3u8
+#EXTINF:-1,-----CARTOON CHANNEL------
+http://portal.simiptv.com:8001/live/priya/12345/9105.m3u8
+#EXTINF:-1,IN:CARTOON NETWORK HINDI
+http://portal.simiptv.com:8001/live/priya/12345/5287.m3u8
+#EXTINF:-1,IN@CARTOON 24 (HD)
+http://portal.simiptv.com:8001/live/priya/12345/13002.m3u8
+#EXTINF:-1,Sony Yay Hindi (IN)
+http://portal.simiptv.com:8001/live/priya/12345/6481.m3u8
+#EXTINF:-1,-----INFORMATION CHANNEL-----
+http://portal.simiptv.com:8001/live/priya/12345/13673.m3u8
+#EXTINF:-1,IN:Sony BBC Earth HD
+http://portal.simiptv.com:8001/live/priya/12345/16997.m3u8
+#EXTINF:-1,IN:HISTORY (ing)
+http://portal.simiptv.com:8001/live/priya/12345/16998.m3u8
+#EXTINF:-1,Discovery_Channel_Hindi (IN)
+http://portal.simiptv.com:8001/live/priya/12345/16999.m3u8
+#EXTINF:-1,Animal Planet HINDI HD (IN)
+http://portal.simiptv.com:8001/live/priya/12345/13202.m3u8
+#EXTINF:-1,Discovery Science Hindi (IN)
+http://portal.simiptv.com:8001/live/priya/12345/14371.m3u8
+#EXTINF:-1,IN:Discovery Turbo HINDI
+http://portal.simiptv.com:8001/live/priya/12345/14370.m3u8
+#EXTINF:-1,IN:Travel XP SD
+http://portal.simiptv.com:8001/live/priya/12345/13819.m3u8
+#EXTINF:-1,IN:MITRA TV
+http://portal.simiptv.com:8001/live/priya/12345/21991.m3u8
+#EXTINF:-1,IN:SADHANA TV
+http://portal.simiptv.com:8001/live/priya/12345/24228.m3u8
+#EXTINF:-1,PB@Jap ji Shaib Katha (Giani Kulwant Singh Ji)
+http://portal.simiptv.com:8001/live/priya/12345/19449.m3u8
+#EXTINF:-1,PB:@ Katha Sukhmani Sahib ji
+http://portal.simiptv.com:8001/live/priya/12345/15344.m3u8
+#EXTINF:-1,PB@Katha Manji Sahib Diwan Hall
+http://portal.simiptv.com:8001/live/priya/12345/23478.m3u8
+#EXTINF:-1,PB@GURBANI KATHA VICHAR
+http://portal.simiptv.com:8001/live/priya/12345/19445.m3u8
+#EXTINF:-1,PB@Bhai Pinderpal Singh Ji (Katha)
+http://portal.simiptv.com:8001/live/priya/12345/16630.m3u8
+#EXTINF:-1,PB@Nitname Gurbani
+http://portal.simiptv.com:8001/live/priya/12345/25821.m3u8
+#EXTINF:-1,BHAI RANJIT SINGH NEW
+http://portal.simiptv.com:8001/live/priya/12345/16697.m3u8
+#EXTINF:-1,PB@ BHAI RANJIT SINGH JI NEW
+http://portal.simiptv.com:8001/live/priya/12345/16698.m3u8
+#EXTINF:-1,PB@Sikhi Lehar
+http://portal.simiptv.com:8001/live/priya/12345/15351.m3u8
+#EXTINF:-1,PB@ PUNJABI  MOVIES HD
+http://portal.simiptv.com:8001/live/priya/12345/16626.m3u8
+#EXTINF:-1,PB: KHALSA SONGS
+http://portal.simiptv.com:8001/live/priya/12345/25223.m3u8
+#EXTINF:-1,PB@Operation Blue Star 1984
+http://portal.simiptv.com:8001/live/priya/12345/17585.m3u8
+#EXTINF:-1,PB@ Katah & Kirtan
+http://portal.simiptv.com:8001/live/priya/12345/17584.m3u8
+#EXTINF:-1,PB@Punjabi Best movies
+http://portal.simiptv.com:8001/live/priya/12345/16699.m3u8
+#EXTINF:-1,PB:GARV  PANAJAB
+http://portal.simiptv.com:8001/live/priya/12345/26461.m3u8
+#EXTINF:-1,PB:Akaal Channel (UK)
+http://portal.simiptv.com:8001/live/priya/12345/18591.m3u8
+#EXTINF:-1,PB:Sikh Channal (Uk)
+http://portal.simiptv.com:8001/live/priya/12345/2309.m3u8
+#EXTINF:-1,PB:Sangat TV(uk)
+http://portal.simiptv.com:8001/live/priya/12345/2352.m3u8
+#EXTINF:-1,PTC PUNJABI (UK)
+http://portal.simiptv.com:8001/live/priya/12345/6817.m3u8
+#EXTINF:-1,PB:PTC PUNJABI (IN)
+http://portal.simiptv.com:8001/live/priya/12345/18578.m3u8
+#EXTINF:-1,PB:PTC NEWS (IN)
+http://portal.simiptv.com:8001/live/priya/12345/22335.m3u8
+#EXTINF:-1,PB:ZEE Punjabi HD
+http://portal.simiptv.com:8001/live/priya/12345/3893.m3u8
+#EXTINF:-1,PB:Kartartv HD
+http://portal.simiptv.com:8001/live/priya/12345/26436.m3u8
+#EXTINF:-1,PB:Jus One HD,
+http://portal.simiptv.com:8001/live/priya/12345/23700.m3u8
+#EXTINF:-1,PB:JUS Punjab HD
+http://portal.simiptv.com:8001/live/priya/12345/23699.m3u8
+#EXTINF:-1,PB:Punjabi Music Mix
+http://portal.simiptv.com:8001/live/priya/12345/5352.m3u8
+#EXTINF:-1,PB:Gurdwara Dukh Niwaran (Canada)
+http://portal.simiptv.com:8001/live/priya/12345/2418.m3u8
+#EXTINF:-1,PB:Ankhila punjab tv
+http://portal.simiptv.com:8001/live/priya/12345/2431.m3u8
+#EXTINF:-1,PB:9X Tashan HD
+http://portal.simiptv.com:8001/live/priya/12345/2324.m3u8
+#EXTINF:-1,PB:Pitaara TV HD
+http://portal.simiptv.com:8001/live/priya/12345/2325.m3u8
+#EXTINF:-1,PB:Boogle Bollywood HD
+http://portal.simiptv.com:8001/live/priya/12345/2316.m3u8
+#EXTINF:-1,PB:Cine Voice
+http://portal.simiptv.com:8001/live/priya/12345/5348.m3u8
+#EXTINF:-1,PB:Chardikla TimeTv-
+http://portal.simiptv.com:8001/live/priya/12345/2412.m3u8
+#EXTINF:-1,PB:DD Punjabi
+http://62.210.75.225:8000/live/Simiptv@streamx/kyYH5JFx5H/120.m3u8
+#EXTINF:-1,PB:APNA Punjab TV.
+http://portal.simiptv.com:8001/live/priya/12345/13353.m3u8
+#EXTINF:-1,PB:CHAKDE TV HD
+http://portal.simiptv.com:8001/live/priya/12345/7814.m3u8
+#EXTINF:-1,PB:FastwayTV
+http://portal.simiptv.com:8001/live/priya/12345/2314.m3u8
+#EXTINF:-1,PB:TEHLKA TV(CA)
+http://portal.simiptv.com:8001/live/priya/12345/8550.m3u8
+#EXTINF:-1,PB:5AAB TV
+http://portal.simiptv.com:8001/live/priya/12345/2387.m3u8
+#EXTINF:-1,PB:84TV HD
+http://portal.simiptv.com:8001/live/priya/12345/2318.m3u8
+#EXTINF:-1,PB: Sahib TV (EEM)
+http://portal.simiptv.com:8001/live/priya/12345/2386.m3u8
+#EXTINF:-1,PB: Khalistani TV
+http://portal.simiptv.com:8001/live/priya/12345/22484.m3u8
+#EXTINF:-1,PB: Fathe TV (IN)
+http://portal.simiptv.com:8001/live/priya/12345/2327.m3u8
+#EXTINF:-1,PB:Punjabi Tv
+http://portal.simiptv.com:8001/live/priya/12345/13207.m3u8
+#EXTINF:-1,PB:PBN MUSIC HD
+http://portal.simiptv.com:8001/live/priya/12345/18749.m3u8
+#EXTINF:-1,PB:Sanjha Punjab TV
+http://portal.simiptv.com:8001/live/priya/12345/19633.m3u8
+#EXTINF:-1,PB: News18 punjabi
+http://62.210.75.225:8000/live/Simiptv@streamx/kyYH5JFx5H/115.m3u8
+#EXTINF:-1,PB:PTC Chakde Punjabi
+http://portal.simiptv.com:8001/live/priya/12345/2229.m3u8
+#EXTINF:-1,PB:DPD HD
+http://portal.simiptv.com:8001/live/priya/12345/13199.m3u8
+#EXTINF:-1,PB:Sur Sagar TV (CANADA)
+http://portal.simiptv.com:8001/live/priya/12345/2228.m3u8
+#EXTINF:-1,PB: Shan Punjabi (Canada)
+http://portal.simiptv.com:8001/live/priya/12345/21566.m3u8
+#EXTINF:-1,PB:Mh one HD
+http://portal.simiptv.com:8001/live/priya/12345/5205.m3u8
+#EXTINF:-1,PB:Mh one News HD
+http://portal.simiptv.com:8001/live/priya/12345/5206.m3u8
+#EXTINF:-1,PB:Life Punjabi
+http://portal.simiptv.com:8001/live/priya/12345/15342.m3u8
+#EXTINF:-1,PB:Prime Asia HD (CA)
+http://portal.simiptv.com:8001/live/priya/12345/2323.m3u8
+#EXTINF:-1,PB:BBC Toronto
+http://portal.simiptv.com:8001/live/priya/12345/15353.m3u8
+#EXTINF:-1,PB: SIKH Channel USA
+http://portal.simiptv.com:8001/live/priya/12345/20468.m3u8
+#EXTINF:-1,PB:Gurbani TV HD
+http://portal.simiptv.com:8001/live/priya/12345/21081.m3u8
+#EXTINF:-1,PB:Ekta TV Gurbani
+http://portal.simiptv.com:8001/live/priya/12345/21082.m3u8
+#EXTINF:-1,PB:Virsa TV
+http://portal.simiptv.com:8001/live/priya/12345/21567.m3u8
+#EXTINF:-1,PB:Jhanjar Music >HD<
+http://portal.simiptv.com:8001/live/priya/12345/23771.m3u8
+#EXTINF:-1,PB:EKTA TV (CANADA)
+http://portal.simiptv.com:8001/live/priya/12345/25215.m3u8
+#EXTINF:-1,PB:Gabruu TV HD (Aust)
+http://portal.simiptv.com:8001/live/priya/12345/25216.m3u8
+#EXTINF:-1,PB:SGSS MALTON(Canada)
+http://portal.simiptv.com:8001/live/priya/12345/24247.m3u8
+#EXTINF:-1,PB: Prime + HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:-1,PB:Alpha ETC Punjabi
+http://portal.simiptv.com:8001/live/priya/12345/26162.m3u8
+#EXTINF:-1,PB:Jus 24x7. HD
+http://portal.simiptv.com:8001/live/priya/12345/26150.m3u8
+#EXTINF:-1,PB:MEDIA Punjab HD
+http://portal.simiptv.com:8001/live/priya/12345/25833.m3u8
+#EXTINF:-1,**Welcome To Simiptv **
+http://portal.simiptv.com:8001/live/priya/12345/9207.m3u8
+#EXTINF:-1,Simiptv@24x7 Gurbani Kirtan HD
+http://portal.simiptv.com:8001/live/priya/12345/16097.m3u8
+#EXTINF:-1,Simiptv@hindi dubbed Boxoffice
+http://portal.simiptv.com:8001/live/priya/12345/16524.m3u8
+#EXTINF:-1,Simiptv@Katha Gyani Sant Singh Ji Maskeen
+http://portal.simiptv.com:8001/live/priya/12345/16532.m3u8
+#EXTINF:-1,SIMIPTV@P: PUNJABI BOX OFFICE
+http://portal.simiptv.com:8001/live/priya/12345/19470.m3u8
+#EXTINF:-1,Simiptv@P: Punjabi Comedy Seans
+http://portal.simiptv.com:8001/live/priya/12345/19479.m3u8
+#EXTINF:-1,Simiptv@Punjabi Best Movies
+http://portal.simiptv.com:8001/live/priya/12345/17890.m3u8
+#EXTINF:-1,Simiptv@Punjabi ComedyHD
+http://portal.simiptv.com:8001/live/priya/12345/16533.m3u8
+#EXTINF:-1,SIMIPTV@PUNJABI MOVIES FHD
+http://portal.simiptv.com:8001/live/priya/12345/16117.m3u8
+#EXTINF:-1,SIMIPTV@PUNJABI OLD MOVIES
+http://portal.simiptv.com:8001/live/priya/12345/16291.m3u8
+#EXTINF:-1,Simiptv@Sikh History
+http://portal.simiptv.com:8001/live/priya/12345/18558.m3u8
+#EXTINF:-1,SIMIPTV@The Kapil Sharma Show HD
+http://portal.simiptv.com:8001/live/priya/12345/16528.m3u8
+#EXTINF:-1,Simiptv@ Hindi Romantic Song
+http://portal.simiptv.com:8001/live/priya/12345/21137.m3u8
+#EXTINF:-1,Simipt@ Best Song Punjabi
+http://portal.simiptv.com:8001/live/priya/12345/20612.m3u8
 
 
