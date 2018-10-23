@@ -260,7 +260,7 @@ http://eirking.pro:8080/live/exchange/sGFHK47UC6/443.m3u
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/020.m3u
 #EXTINF:0, group-title="Uk",WILD HD
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/035.m3u
-NATIONAL GEOGRAPHIC
+#EXTINF:0, group-title="Uk",NATIONAL GEOGRAPHIC
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/040.m3u8
 #EXTINF:0, group-title="UK",SET MAX
 http://eirking.pro:8080/live/exchange/sGFHK47UC6/613.m3u8
