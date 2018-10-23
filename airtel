@@ -286,69 +286,606 @@ http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 #EXTINF:0,group-title="IN",Peace Tv Urdu
 http://199.167.151.237:1935/live/sp15_4.stream/gmswf.m3u8
-#EXTINF:0,group-title="Yaman",Al Yamen
-#EXTINF:0, group-title="ENGLISH",FOX NEWS
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/049.m3u8
-#EXTINF:0, group-title="ENGLISH",EURO FILMS
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/059.m3u8
-#EXTINF:0, group-title="ENGLISH",THILLER
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/060.m3u8
-#EXTINF:0, group-title="EN",TENTOVA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/127.m3u8
-#EXTINF:0, group-title="EN",ACTION
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/155.m3u8
-#EXTINF:0, group-title="EN",TRING TRING
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/161.m3u8
-#EXTINF:0, group-title="EN",NEVA FLOG
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/279.m3u8
-#EXTINF:0, group-title="EN",ZDF INFO
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/286.m3u8
-#EXTINF:0, group-title="EN",3SAT HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/290.m3u8
-#EXTINF:0, group-title="EN",ANIMAL PLANET 
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/305.m3u8
-#EXTINF:0, group-title="EN",ZEE ONE
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/307.m3u8
-#EXTINF:0, group-title="EN",AXN HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/311.m3u8
-#EXTINF:0, group-title="EN",NATGEO WILD 
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/314.m3u8
-#EXTINF:0, group-title="EN",EURO STAR
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/382.m3u8
-#EXTINF:0, group-title="EN",7 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/385.m3u8
-#EXTINF:0, group-title="EN",MPT
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/389.m3u8
-#EXTINF:0, group-title="EN",HBO HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/407.m3u8
-#EXTINF:0, group-title="EN",HBO 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/408.m3u8
-#EXTINF:0, group-title="EN",PINK HORROR
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/436.m3u8
-#EXTINF:0, group-title="EN",PINK KIDS
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/450.m3u8
-#EXTINF:0, group-title="EN",PINK WORLD CONEMA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/452.m3u8
-#EXTINF:0, group-title="EN",HAYATOVCI
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/487.m3u8
-#EXTINF:0, group-title="EN",SUPER SPORT
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/520.m3u8
-#EXTINF:0, group-title="EN",NATIONAL GEOGRAPHIC
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/632.m3u8
-#EXTINF:0, group-title="EN",NAT GEO PEOPEL
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/689.m3u8
-#EXTINF:0, group-title="EN",SKY SPORT 1
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/847.m3u8
-#EXTINF:0, group-title="EN",SKY SPORT
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/859.m3u8
-#EXTINF:0, group-title="EN",EURO SPORT
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/867.m3u8
-#EXTINF:0, group-title="EN",SKY SPORT CRICKET
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/881.m3u8
-#EXTINF:0, group-title="EN",BEIN SPORT HD 1
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1051.m3u8
 #EXTINF:-1 group-title="(UK) United Kingdom",Zee Cinema | SD (UK)
 http://server.internext.tv:8000/live/star18/star18/8533.m3u8
+#EXTINF:-1,AR: B4U Aflam
+http://85.93.93.132:8000/live/caper/caper/2868.m3u8
+#EXTINF:-1,AR: ZEE AFLAM
+http://85.93.93.132:8000/live/caper/caper/2776.m3u8
+#EXTINF:-1,AR: ZEE ALWAN
+http://85.93.93.132:8000/live/caper/caper/2775.m3u8
+#EXTINF:-1,IN: &Pictures HD IN
+http://85.93.93.132:8000/live/caper/caper/2935.m3u8
+#EXTINF:-1,IN: 92 NEWS HD
+http://85.93.93.132:8000/live/caper/caper/2909.m3u8
+#EXTINF:-1,IN: 9X Jhakaas IN
+http://85.93.93.132:8000/live/caper/caper/2934.m3u8
+#EXTINF:-1,IN: 9X Tashan Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2933.m3u8
+#EXTINF:-1,IN: 9XM IN
+http://85.93.93.132:8000/live/caper/caper/2932.m3u8
+#EXTINF:-1,IN: 9XM Jalwa IN
+http://85.93.93.132:8000/live/caper/caper/2931.m3u8
+#EXTINF:-1,IN: 9xTashan IN
+http://85.93.93.132:8000/live/caper/caper/2930.m3u8
+#EXTINF:-1,IN: A PLUS
+http://85.93.93.132:8000/live/caper/caper/2919.m3u8
+#EXTINF:-1,IN: AAJ ENTERTAINMENT
+http://85.93.93.132:8000/live/caper/caper/2923.m3u8
+#EXTINF:-1,IN: AAJ NEWS
+http://85.93.93.132:8000/live/caper/caper/2922.m3u8
+#EXTINF:-1,IN: AAJ TAK IN
+http://85.93.93.132:8000/live/caper/caper/2944.m3u8
+#EXTINF:-1,IN: AAJ TAK UK IN
+http://85.93.93.132:8000/live/caper/caper/2943.m3u8
+#EXTINF:-1,IN: Aakash Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2942.m3u8
+#EXTINF:-1,IN: Aamar Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2941.m3u8
+#EXTINF:-1,IN: ABP Ananda Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2940.m3u8
+#EXTINF:-1,IN: ABP News UK IN
+http://85.93.93.132:8000/live/caper/caper/2939.m3u8
+#EXTINF:-1,IN: Adithya TV IN
+http://85.93.93.132:8000/live/caper/caper/2938.m3u8
+#EXTINF:-1,IN: Akaal Channel Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2937.m3u8
+#EXTINF:-1,IN: Akkal Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2936.m3u8
+#EXTINF:-1,IN: And TV HD IN
+http://85.93.93.132:8000/live/caper/caper/2954.m3u8
+#EXTINF:-1,IN: And TV UK IN
+http://85.93.93.132:8000/live/caper/caper/2953.m3u8
+#EXTINF:-1,IN: AOne Music Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2952.m3u8
+#EXTINF:-1,IN: AOne Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2951.m3u8
+#EXTINF:-1,IN: ARY DIGITAL
+http://85.93.93.132:8000/live/caper/caper/2928.m3u8
+#EXTINF:-1,IN: ARY Digital UK IN
+http://85.93.93.132:8000/live/caper/caper/2950.m3u8
+#EXTINF:-1,IN: ARY NEWS HD
+http://85.93.93.132:8000/live/caper/caper/2927.m3u8
+#EXTINF:-1,IN: ARY QTV
+http://85.93.93.132:8000/live/caper/caper/2926.m3u8
+#EXTINF:-1,IN: ARY ZAUQ
+http://85.93.93.132:8000/live/caper/caper/2925.m3u8
+#EXTINF:-1,IN: ARY ZINDAGI
+http://85.93.93.132:8000/live/caper/caper/2924.m3u8
+#EXTINF:-1,IN: Asian TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2965.m3u8
+#EXTINF:-1,IN: AsiaNet IN
+http://85.93.93.132:8000/live/caper/caper/2964.m3u8
+#EXTINF:-1,IN: AsiaNet Plus IN
+http://85.93.93.132:8000/live/caper/caper/2963.m3u8
+#EXTINF:-1,IN: ATN Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2962.m3u8
+#EXTINF:-1,IN: ATN Music TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2961.m3u8
+#EXTINF:-1,IN: ATN News Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2960.m3u8
+#EXTINF:-1,IN: ATN UK Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2959.m3u8
+#EXTINF:-1,IN: B4U Movies IN
+http://85.93.93.132:8000/live/caper/caper/2958.m3u8
+#EXTINF:-1,IN: B4U Music IN
+http://85.93.93.132:8000/live/caper/caper/2957.m3u8
+#EXTINF:-1,IN: B4U Plus IN
+http://85.93.93.132:8000/live/caper/caper/2956.m3u8
+#EXTINF:-1,IN: Bangla Vision Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2955.m3u8
+#EXTINF:-1,IN: Bijoy Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3014.m3u8
+#EXTINF:-1,IN: Bindass Play IN
+http://85.93.93.132:8000/live/caper/caper/3013.m3u8
+#EXTINF:-1,IN: Boishakhi Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3012.m3u8
+#EXTINF:-1,IN: Brit Asia TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3011.m3u8
+#EXTINF:-1,IN: Britasia Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3010.m3u8
+#EXTINF:-1,IN: BTV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3009.m3u8
+#EXTINF:-1,IN: BTV World Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3008.m3u8
+#EXTINF:-1,IN: CAPITAL NEWS
+http://85.93.93.132:8000/live/caper/caper/2917.m3u8
+#EXTINF:-1,IN: ChakDE IN
+http://85.93.93.132:8000/live/caper/caper/3007.m3u8
+#EXTINF:-1,IN: ChakDE TV Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3006.m3u8
+#EXTINF:-1,IN: Channel 24 Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3005.m3u8
+#EXTINF:-1,IN: Channel 9 Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3004.m3u8
+#EXTINF:-1,IN: Channel 99 Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3003.m3u8
+#EXTINF:-1,IN: Channel I Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3002.m3u8
+#EXTINF:-1,IN: Channel I EU Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3001.m3u8
+#EXTINF:-1,IN: Channel S Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3000.m3u8
+#EXTINF:-1,IN: Chardiala Time TV Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2999.m3u8
+#EXTINF:-1,IN: Chithiram TV IN
+http://85.93.93.132:8000/live/caper/caper/2998.m3u8
+#EXTINF:-1,IN: Colors  Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2997.m3u8
+#EXTINF:-1,IN: Colors Gujrati IN
+http://85.93.93.132:8000/live/caper/caper/2996.m3u8
+#EXTINF:-1,IN: Colors TV HD IN
+http://85.93.93.132:8000/live/caper/caper/2995.m3u8
+#EXTINF:-1,IN: Colors TV UK IN
+http://85.93.93.132:8000/live/caper/caper/2994.m3u8
+#EXTINF:-1,IN: Colors UK IN
+http://85.93.93.132:8000/live/caper/caper/2993.m3u8
+#EXTINF:-1,IN: Dabangg TV IN
+http://85.93.93.132:8000/live/caper/caper/2992.m3u8
+#EXTINF:-1,IN: DAWN NEWS
+http://85.93.93.132:8000/live/caper/caper/2915.m3u8
+#EXTINF:-1,IN: DBC News Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2991.m3u8
+#EXTINF:-1,IN: DD Bangla Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2990.m3u8
+#EXTINF:-1,IN: DD Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2989.m3u8
+#EXTINF:-1,IN: Deepto HD Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2988.m3u8
+#EXTINF:-1,IN: Deshe Bideshe TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2987.m3u8
+#EXTINF:-1,IN: Deshi TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2986.m3u8
+#EXTINF:-1,IN: DeshTV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2985.m3u8
+#EXTINF:-1,IN: Desi Channel Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2984.m3u8
+#EXTINF:-1,IN: Desi TV IN
+http://85.93.93.132:8000/live/caper/caper/2983.m3u8
+#EXTINF:-1,IN: Deva TV HD IN
+http://85.93.93.132:8000/live/caper/caper/2982.m3u8
+#EXTINF:-1,IN: Dhoom Music Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2981.m3u8
+#EXTINF:-1,IN: Dillagi IN
+http://85.93.93.132:8000/live/caper/caper/2980.m3u8
+#EXTINF:-1,IN: Discovery IN
+http://85.93.93.132:8000/live/caper/caper/2949.m3u8
+#EXTINF:-1,IN: Doom Music Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2948.m3u8
+#EXTINF:-1,IN: DUNYA NEWS
+http://85.93.93.132:8000/live/caper/caper/2916.m3u8
+#EXTINF:-1,IN: Ekatoor TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2979.m3u8
+#EXTINF:-1,IN: Eleven Sport Network Asia IN
+http://85.93.93.132:8000/live/caper/caper/2978.m3u8
+#EXTINF:-1,IN: ETC Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2977.m3u8
+#EXTINF:-1,IN: ETV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2976.m3u8
+#EXTINF:-1,IN: Food Food IN
+http://85.93.93.132:8000/live/caper/caper/2975.m3u8
+#EXTINF:-1,IN: G TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2974.m3u8
+#EXTINF:-1,IN: Gaan Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2973.m3u8
+#EXTINF:-1,IN: Gemini Movies 1 IN
+http://85.93.93.132:8000/live/caper/caper/2972.m3u8
+#EXTINF:-1,IN: Gemini Movies 2 IN
+http://85.93.93.132:8000/live/caper/caper/2971.m3u8
+#EXTINF:-1,IN: Gemini Movies IN
+http://85.93.93.132:8000/live/caper/caper/2970.m3u8
+#EXTINF:-1,IN: Gemini TV IN
+http://85.93.93.132:8000/live/caper/caper/2969.m3u8
+#EXTINF:-1,IN: GEO News UK IN
+http://85.93.93.132:8000/live/caper/caper/2968.m3u8
+#EXTINF:-1,IN: GEO TEZ UK IN
+http://85.93.93.132:8000/live/caper/caper/2967.m3u8
+#EXTINF:-1,IN: GEO TEZZ
+http://85.93.93.132:8000/live/caper/caper/2921.m3u8
+#EXTINF:-1,IN: GEO TV
+http://85.93.93.132:8000/live/caper/caper/2920.m3u8
+#EXTINF:-1,IN: GEO TV UK IN
+http://85.93.93.132:8000/live/caper/caper/2966.m3u8
+#EXTINF:-1,IN: Hamdard TV Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3015.m3u8
+#EXTINF:-1,IN: HBO IN
+http://85.93.93.132:8000/live/caper/caper/3021.m3u8
+#EXTINF:-1,IN: HollyWood Classic IN
+http://85.93.93.132:8000/live/caper/caper/3020.m3u8
+#EXTINF:-1,IN: Housefull Action IN
+http://85.93.93.132:8000/live/caper/caper/3019.m3u8
+#EXTINF:-1,IN: HUM Europe UK IN
+http://85.93.93.132:8000/live/caper/caper/3018.m3u8
+#EXTINF:-1,IN: HUM SITARAY
+http://85.93.93.132:8000/live/caper/caper/2912.m3u8
+#EXTINF:-1,IN: HUM TV
+http://85.93.93.132:8000/live/caper/caper/2911.m3u8
+#EXTINF:-1,IN: HUM WORLD
+http://85.93.93.132:8000/live/caper/caper/2910.m3u8
+#EXTINF:-1,IN: Hungama IN
+http://85.93.93.132:8000/live/caper/caper/3017.m3u8
+#EXTINF:-1,IN: IBN 7 IN
+http://85.93.93.132:8000/live/caper/caper/3016.m3u8
+#EXTINF:-1,IN: Independent Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3023.m3u8
+#EXTINF:-1,IN: India TV IN
+http://85.93.93.132:8000/live/caper/caper/3022.m3u8
+#EXTINF:-1,IN: iTV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3024.m3u8
+#EXTINF:-1,IN: JAI Telangana IN
+http://85.93.93.132:8000/live/caper/caper/3044.m3u8
+#EXTINF:-1,IN: Jamuna TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3043.m3u8
+#EXTINF:-1,IN: Janam TV 2 IN
+http://85.93.93.132:8000/live/caper/caper/3042.m3u8
+#EXTINF:-1,IN: Jaya Max 2 IN
+http://85.93.93.132:8000/live/caper/caper/3041.m3u8
+#EXTINF:-1,IN: Jaya Max UK IN
+http://85.93.93.132:8000/live/caper/caper/3040.m3u8
+#EXTINF:-1,IN: Jaya Movie UK IN
+http://85.93.93.132:8000/live/caper/caper/3039.m3u8
+#EXTINF:-1,IN: Jaya Movies HD IN
+http://85.93.93.132:8000/live/caper/caper/3038.m3u8
+#EXTINF:-1,IN: Jaya Movies IN
+http://85.93.93.132:8000/live/caper/caper/3037.m3u8
+#EXTINF:-1,IN: Jaya Plus IN
+http://85.93.93.132:8000/live/caper/caper/3036.m3u8
+#EXTINF:-1,IN: Jaya TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3035.m3u8
+#EXTINF:-1,IN: Jaya TV USA IN
+http://85.93.93.132:8000/live/caper/caper/3034.m3u8
+#EXTINF:-1,IN: Jus One TV Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3033.m3u8
+#EXTINF:-1,IN: JUS Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3032.m3u8
+#EXTINF:-1,IN: Kairali IN
+http://85.93.93.132:8000/live/caper/caper/3031.m3u8
+#EXTINF:-1,IN: Kannada Colors UK IN
+http://85.93.93.132:8000/live/caper/caper/3030.m3u8
+#EXTINF:-1,IN: Kiran TV IN
+http://85.93.93.132:8000/live/caper/caper/3029.m3u8
+#EXTINF:-1,IN: KTV USA IN
+http://85.93.93.132:8000/live/caper/caper/3028.m3u8
+#EXTINF:-1,IN: Life OK HD IN
+http://85.93.93.132:8000/live/caper/caper/3027.m3u8
+#EXTINF:-1,IN: LifeOK IN
+http://85.93.93.132:8000/live/caper/caper/3026.m3u8
+#EXTINF:-1,IN: Living Foodz 2 IN
+http://85.93.93.132:8000/live/caper/caper/3025.m3u8
+#EXTINF:-1,IN: Maa Gold IN
+http://85.93.93.132:8000/live/caper/caper/3079.m3u8
+#EXTINF:-1,IN: Maasaranga Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3078.m3u8
+#EXTINF:-1,IN: MADANI CHANNEL
+http://85.93.93.132:8000/live/caper/caper/2913.m3u8
+#EXTINF:-1,IN: Magic TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3077.m3u8
+#EXTINF:-1,IN: Mala Asianet UK IN
+http://85.93.93.132:8000/live/caper/caper/3076.m3u8
+#EXTINF:-1,IN: Manoranjan Movies IN
+http://85.93.93.132:8000/live/caper/caper/3075.m3u8
+#EXTINF:-1,IN: Manoranjan TV IN
+http://85.93.93.132:8000/live/caper/caper/3074.m3u8
+#EXTINF:-1,IN: Masranga TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3073.m3u8
+#EXTINF:-1,IN: Media Punjab IN
+http://85.93.93.132:8000/live/caper/caper/3072.m3u8
+#EXTINF:-1,IN: MH1 Music IN
+http://85.93.93.132:8000/live/caper/caper/3071.m3u8
+#EXTINF:-1,IN: MH1 News Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3070.m3u8
+#EXTINF:-1,IN: MH1 Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3069.m3u8
+#EXTINF:-1,IN: MH1 SHARDDHA Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3068.m3u8
+#EXTINF:-1,IN: MH1 Shradha IN
+http://85.93.93.132:8000/live/caper/caper/3067.m3u8
+#EXTINF:-1,IN: Millennium TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3066.m3u8
+#EXTINF:-1,IN: Mohana Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3065.m3u8
+#EXTINF:-1,IN: Movie Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3064.m3u8
+#EXTINF:-1,IN: Movies OK IN
+http://85.93.93.132:8000/live/caper/caper/3063.m3u8
+#EXTINF:-1,IN: MTV IN
+http://85.93.93.132:8000/live/caper/caper/3062.m3u8
+#EXTINF:-1,IN: Music Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3061.m3u8
+#EXTINF:-1,IN: Music India IN
+http://85.93.93.132:8000/live/caper/caper/3060.m3u8
+#EXTINF:-1,IN: MyTV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3059.m3u8
+#EXTINF:-1,IN: National Geographic IN
+http://85.93.93.132:8000/live/caper/caper/3058.m3u8
+#EXTINF:-1,IN: NDTV 24x7 UK IN
+http://85.93.93.132:8000/live/caper/caper/3057.m3u8
+#EXTINF:-1,IN: NDTV GoodTimes IN
+http://85.93.93.132:8000/live/caper/caper/3056.m3u8
+#EXTINF:-1,IN: NDTV India IN
+http://85.93.93.132:8000/live/caper/caper/3055.m3u8
+#EXTINF:-1,IN: Neo Prime IN
+http://85.93.93.132:8000/live/caper/caper/3054.m3u8
+#EXTINF:-1,IN: Neo Sports IN
+http://85.93.93.132:8000/live/caper/caper/3053.m3u8
+#EXTINF:-1,IN: News 24 HD Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3052.m3u8
+#EXTINF:-1,IN: News 24 IN
+http://85.93.93.132:8000/live/caper/caper/3051.m3u8
+#EXTINF:-1,IN: Nick Jr IN
+http://85.93.93.132:8000/live/caper/caper/3050.m3u8
+#EXTINF:-1,IN: Nickelodeon IN
+http://85.93.93.132:8000/live/caper/caper/3049.m3u8
+#EXTINF:-1,IN: Noor TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3048.m3u8
+#EXTINF:-1,IN: NRB TV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3047.m3u8
+#EXTINF:-1,IN: NTV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3046.m3u8
+#EXTINF:-1,IN: NTV UK Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3045.m3u8
+#EXTINF:-1,IN: PBN Music IN
+http://85.93.93.132:8000/live/caper/caper/2947.m3u8
+#EXTINF:-1,IN: PBN Music Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/2946.m3u8
+#EXTINF:-1,IN: Pogo TV IN
+http://85.93.93.132:8000/live/caper/caper/3081.m3u8
+#EXTINF:-1,IN: Polimer TV IN
+http://85.93.93.132:8000/live/caper/caper/3080.m3u8
+#EXTINF:-1,IN: Probashi Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3086.m3u8
+#EXTINF:-1,IN: PTC Chak DE Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3085.m3u8
+#EXTINF:-1,IN: PTC Chakde IN
+http://85.93.93.132:8000/live/caper/caper/3084.m3u8
+#EXTINF:-1,IN: PTC News Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3083.m3u8
+#EXTINF:-1,IN: PTC Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3082.m3u8
+#EXTINF:-1,IN: Punjab TV Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3090.m3u8
+#EXTINF:-1,IN: Puthiya IN
+http://85.93.93.132:8000/live/caper/caper/3089.m3u8
+#EXTINF:-1,IN: Puthugyam IN
+http://85.93.93.132:8000/live/caper/caper/3088.m3u8
+#EXTINF:-1,IN: R Plus News Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3087.m3u8
+#EXTINF:-1,IN: RAJ Digital Plus IN
+http://85.93.93.132:8000/live/caper/caper/3101.m3u8
+#EXTINF:-1,IN: Raj Digital Plus UK IN
+http://85.93.93.132:8000/live/caper/caper/3100.m3u8
+#EXTINF:-1,IN: RAJ Musix IN
+http://85.93.93.132:8000/live/caper/caper/3099.m3u8
+#EXTINF:-1,IN: RAJ TV IN
+http://85.93.93.132:8000/live/caper/caper/3098.m3u8
+#EXTINF:-1,IN: Raj TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3097.m3u8
+#EXTINF:-1,IN: Rishtey Cine UK IN
+http://85.93.93.132:8000/live/caper/caper/3096.m3u8
+#EXTINF:-1,IN: Rishtey IN
+http://85.93.93.132:8000/live/caper/caper/3095.m3u8
+#EXTINF:-1,IN: Rishtey UK IN
+http://85.93.93.132:8000/live/caper/caper/3094.m3u8
+#EXTINF:-1,IN: RTV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3093.m3u8
+#EXTINF:-1,IN: Ruposhi Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3102.m3u8
+#EXTINF:-1,IN: Sab TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3110.m3u8
+#EXTINF:-1,IN: SabTV IN
+http://85.93.93.132:8000/live/caper/caper/3109.m3u8
+#EXTINF:-1,IN: SAMAA
+http://85.93.93.132:8000/live/caper/caper/2918.m3u8
+#EXTINF:-1,IN: Sangat TV Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3108.m3u8
+#EXTINF:-1,IN: Sangat UK IN
+http://85.93.93.132:8000/live/caper/caper/3107.m3u8
+#EXTINF:-1,IN: Sangeet Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3106.m3u8
+#EXTINF:-1,IN: Sanjh TV Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3105.m3u8
+#EXTINF:-1,IN: Santhora TV IN
+http://85.93.93.132:8000/live/caper/caper/3104.m3u8
+#EXTINF:-1,IN: SATV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3103.m3u8
+#EXTINF:-1,IN: Set Max UK IN
+http://85.93.93.132:8000/live/caper/caper/3112.m3u8
+#EXTINF:-1,IN: SetMax2 IN
+http://85.93.93.132:8000/live/caper/caper/3111.m3u8
+#EXTINF:-1,IN: Sikh Channel Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3129.m3u8
+#EXTINF:-1,IN: SK Movies Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3128.m3u8
+#EXTINF:-1,IN: SKTV Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3127.m3u8
+#EXTINF:-1,IN: Somoy Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3126.m3u8
+#EXTINF:-1,IN: Sonic Nickelodeon IN
+http://85.93.93.132:8000/live/caper/caper/3125.m3u8
+#EXTINF:-1,IN: Sony ESPN IN
+http://85.93.93.132:8000/live/caper/caper/3124.m3u8
+#EXTINF:-1,IN: Sony Max HD UK IN
+http://85.93.93.132:8000/live/caper/caper/3123.m3u8
+#EXTINF:-1,IN: Sony Mix IN
+http://85.93.93.132:8000/live/caper/caper/3122.m3u8
+#EXTINF:-1,IN: Sony Pal IN
+http://85.93.93.132:8000/live/caper/caper/3121.m3u8
+#EXTINF:-1,IN: Sony Pix IN
+http://85.93.93.132:8000/live/caper/caper/3120.m3u8
+#EXTINF:-1,IN: Sony Sab 2 IN
+http://85.93.93.132:8000/live/caper/caper/3119.m3u8
+#EXTINF:-1,IN: Sony Sab UK IN
+http://85.93.93.132:8000/live/caper/caper/3118.m3u8
+#EXTINF:-1,IN: Sony Six IN
+http://85.93.93.132:8000/live/caper/caper/3117.m3u8
+#EXTINF:-1,IN: Sony TV Asia UK IN
+http://85.93.93.132:8000/live/caper/caper/3116.m3u8
+#EXTINF:-1,IN: Sony TV HD IN
+http://85.93.93.132:8000/live/caper/caper/3115.m3u8
+#EXTINF:-1,IN: Sony TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3114.m3u8
+#EXTINF:-1,IN: Sony UK IN
+http://85.93.93.132:8000/live/caper/caper/3113.m3u8
+#EXTINF:-1,IN: Star Gold HD IN
+http://85.93.93.132:8000/live/caper/caper/3153.m3u8
+#EXTINF:-1,IN: Star Gold IN
+http://85.93.93.132:8000/live/caper/caper/3152.m3u8
+#EXTINF:-1,IN: Star Gold UK IN
+http://85.93.93.132:8000/live/caper/caper/3151.m3u8
+#EXTINF:-1,IN: Star Jalsa Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3150.m3u8
+#EXTINF:-1,IN: Star Jalsha IN
+http://85.93.93.132:8000/live/caper/caper/3149.m3u8
+#EXTINF:-1,IN: Star Jhalsa Movies Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3148.m3u8
+#EXTINF:-1,IN: Star Life OK UK IN
+http://85.93.93.132:8000/live/caper/caper/3147.m3u8
+#EXTINF:-1,IN: Star Movies Action IN
+http://85.93.93.132:8000/live/caper/caper/3146.m3u8
+#EXTINF:-1,IN: Star Movies HD IN
+http://85.93.93.132:8000/live/caper/caper/3145.m3u8
+#EXTINF:-1,IN: Star Plus HD IN
+http://85.93.93.132:8000/live/caper/caper/3144.m3u8
+#EXTINF:-1,IN: Star Plus HD US IN
+http://85.93.93.132:8000/live/caper/caper/3143.m3u8
+#EXTINF:-1,IN: Star Plus IN
+http://85.93.93.132:8000/live/caper/caper/3142.m3u8
+#EXTINF:-1,IN: Star Plus UK IN
+http://85.93.93.132:8000/live/caper/caper/3141.m3u8
+#EXTINF:-1,IN: Star Pravah IN
+http://85.93.93.132:8000/live/caper/caper/3140.m3u8
+#EXTINF:-1,IN: Star Sports 1 HD IN
+http://85.93.93.132:8000/live/caper/caper/3139.m3u8
+#EXTINF:-1,IN: Star Sports 1 IN
+http://85.93.93.132:8000/live/caper/caper/3138.m3u8
+#EXTINF:-1,IN: Star Sports 2 HD IN
+http://85.93.93.132:8000/live/caper/caper/3137.m3u8
+#EXTINF:-1,IN: Star Sports 2 IN
+http://85.93.93.132:8000/live/caper/caper/3136.m3u8
+#EXTINF:-1,IN: Star Sports 3 HD IN
+http://85.93.93.132:8000/live/caper/caper/3135.m3u8
+#EXTINF:-1,IN: Star Sports 3 IN
+http://85.93.93.132:8000/live/caper/caper/3134.m3u8
+#EXTINF:-1,IN: Star Sports 4 HD IN
+http://85.93.93.132:8000/live/caper/caper/3133.m3u8
+#EXTINF:-1,IN: Star Sports 4 IN
+http://85.93.93.132:8000/live/caper/caper/3132.m3u8
+#EXTINF:-1,IN: Star Utsav UK IN
+http://85.93.93.132:8000/live/caper/caper/3131.m3u8
+#EXTINF:-1,IN: Star Vijay IN
+http://85.93.93.132:8000/live/caper/caper/3130.m3u8
+#EXTINF:-1,IN: SUN Music IN
+http://85.93.93.132:8000/live/caper/caper/3157.m3u8
+#EXTINF:-1,IN: SUN TV HD IN
+http://85.93.93.132:8000/live/caper/caper/3156.m3u8
+#EXTINF:-1,IN: Takbeer TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3155.m3u8
+#EXTINF:-1,IN: Tara Muzik Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3154.m3u8
+#EXTINF:-1,IN: Teleugu ETV UK IN
+http://85.93.93.132:8000/live/caper/caper/3165.m3u8
+#EXTINF:-1,IN: Teleugu Maa Movies UK IN
+http://85.93.93.132:8000/live/caper/caper/3164.m3u8
+#EXTINF:-1,IN: Teleugu Maa TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3163.m3u8
+#EXTINF:-1,IN: TEN 1 HD IN
+http://85.93.93.132:8000/live/caper/caper/3162.m3u8
+#EXTINF:-1,IN: Ten Action IN
+http://85.93.93.132:8000/live/caper/caper/3161.m3u8
+#EXTINF:-1,IN: Ten Cricket IN
+http://85.93.93.132:8000/live/caper/caper/3160.m3u8
+#EXTINF:-1,IN: TEN Golf HD IN
+http://85.93.93.132:8000/live/caper/caper/3159.m3u8
+#EXTINF:-1,IN: Ten Sports IN
+http://85.93.93.132:8000/live/caper/caper/3158.m3u8
+#EXTINF:-1,IN: Time Television Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3092.m3u8
+#EXTINF:-1,IN: Times Now IN
+http://85.93.93.132:8000/live/caper/caper/3091.m3u8
+#EXTINF:-1,IN: TV UK Bangla IN
+http://85.93.93.132:8000/live/caper/caper/2945.m3u8
+#EXTINF:-1,IN: UTV Bindas IN
+http://85.93.93.132:8000/live/caper/caper/3168.m3u8
+#EXTINF:-1,IN: UTV Movies IN
+http://85.93.93.132:8000/live/caper/caper/3167.m3u8
+#EXTINF:-1,IN: UTV Movies Inter IN
+http://85.93.93.132:8000/live/caper/caper/3166.m3u8
+#EXTINF:-1,IN: Vimbam TV IN
+http://85.93.93.132:8000/live/caper/caper/3169.m3u8
+#EXTINF:-1,IN: WAQT NEWS
+http://85.93.93.132:8000/live/caper/caper/2914.m3u8
+#EXTINF:-1,IN: Willow Cricket IN
+http://85.93.93.132:8000/live/caper/caper/3170.m3u8
+#EXTINF:-1,IN: Zee Action IN
+http://85.93.93.132:8000/live/caper/caper/3205.m3u8
+#EXTINF:-1,IN: Zee Anmol IN
+http://85.93.93.132:8000/live/caper/caper/3204.m3u8
+#EXTINF:-1,IN: Zee Bangla Cinema IN
+http://85.93.93.132:8000/live/caper/caper/3203.m3u8
+#EXTINF:-1,IN: Zee Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3202.m3u8
+#EXTINF:-1,IN: Zee Business IN
+http://85.93.93.132:8000/live/caper/caper/3201.m3u8
+#EXTINF:-1,IN: Zee Cinema AU IN
+http://85.93.93.132:8000/live/caper/caper/3200.m3u8
+#EXTINF:-1,IN: Zee Cinema Bangla IN
+http://85.93.93.132:8000/live/caper/caper/3199.m3u8
+#EXTINF:-1,IN: Zee Cinema HD US IN
+http://85.93.93.132:8000/live/caper/caper/3198.m3u8
+#EXTINF:-1,IN: Zee Cinema IN
+http://85.93.93.132:8000/live/caper/caper/3197.m3u8
+#EXTINF:-1,IN: Zee Cinema Inter IN
+http://85.93.93.132:8000/live/caper/caper/3196.m3u8
+#EXTINF:-1,IN: Zee Cinema UK IN
+http://85.93.93.132:8000/live/caper/caper/3195.m3u8
+#EXTINF:-1,IN: Zee Classic IN
+http://85.93.93.132:8000/live/caper/caper/3194.m3u8
+#EXTINF:-1,IN: Zee ETC IN
+http://85.93.93.132:8000/live/caper/caper/3193.m3u8
+#EXTINF:-1,IN: Zee Living IN
+http://85.93.93.132:8000/live/caper/caper/3192.m3u8
+#EXTINF:-1,IN: Zee Marathi 2 IN
+http://85.93.93.132:8000/live/caper/caper/3191.m3u8
+#EXTINF:-1,IN: Zee Marathi IN
+http://85.93.93.132:8000/live/caper/caper/3190.m3u8
+#EXTINF:-1,IN: Zee News IN
+http://85.93.93.132:8000/live/caper/caper/3189.m3u8
+#EXTINF:-1,IN: Zee Punjabi Haryana TV Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3188.m3u8
+#EXTINF:-1,IN: Zee Punjabi IN
+http://85.93.93.132:8000/live/caper/caper/3187.m3u8
+#EXTINF:-1,IN: Zee Smile IN
+http://85.93.93.132:8000/live/caper/caper/3186.m3u8
+#EXTINF:-1,IN: Zee Studio HD IN
+http://85.93.93.132:8000/live/caper/caper/3185.m3u8
+#EXTINF:-1,IN: Zee Studio IN
+http://85.93.93.132:8000/live/caper/caper/3184.m3u8
+#EXTINF:-1,IN: Zee Talkies IN
+http://85.93.93.132:8000/live/caper/caper/3183.m3u8
+#EXTINF:-1,IN: Zee Tamil IN
+http://85.93.93.132:8000/live/caper/caper/3182.m3u8
+#EXTINF:-1,IN: Zee Telugu Ditto IN
+http://85.93.93.132:8000/live/caper/caper/3181.m3u8
+#EXTINF:-1,IN: Zee TV HD US IN
+http://85.93.93.132:8000/live/caper/caper/3180.m3u8
+#EXTINF:-1,IN: Zee TV IN
+http://85.93.93.132:8000/live/caper/caper/3179.m3u8
+#EXTINF:-1,IN: Zee TV UK IN
+http://85.93.93.132:8000/live/caper/caper/3178.m3u8
+#EXTINF:-1,IN: Zee Zindagi IN
+http://85.93.93.132:8000/live/caper/caper/3177.m3u8
+#EXTINF:-1,IN: ZeeNews IN
+http://85.93.93.132:8000/live/caper/caper/3176.m3u8
+#EXTINF:-1,IN: Zindagi IN
+http://85.93.93.132:8000/live/caper/caper/3175.m3u8
+#EXTINF:-1,IN: Zing TV IN
+http://85.93.93.132:8000/live/caper/caper/3174.m3u8
+#EXTINF:-1,IN: Zing UK IN
+http://85.93.93.132:8000/live/caper/caper/3173.m3u8
+#EXTINF:-1,IN: Zoom IN
+http://85.93.93.132:8000/live/caper/caper/3172.m3u8
+#EXTINF:-1,IN: Zoom UK IN
+http://85.93.93.132:8000/live/caper/caper/3171.m3u8
 
 
 
