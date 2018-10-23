@@ -250,34 +250,6 @@ http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 #EXTINF:0,India News
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
-#EXTINF:0, group-title="Uk",POP
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/441.m3u
-#EXTINF:0, group-title="Uk",POP2
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/442.m3u
-#EXTINF:0, group-title="Uk",Chant Show Hits
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/443.m3u
-#EXTINF:0, group-title="Uk",Disnep
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/020.m3u
-#EXTINF:0, group-title="Uk",WILD HD
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/035.m3u
-#EXTINF:0, group-title="Uk",NATIONAL GEOGRAPHIC
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/040.m3u8
-#EXTINF:0, group-title="UK",SET MAX
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/613.m3u8
-#EXTINF:0, group-title="UK",Star plus
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/585.m3u8
-#EXTINF:0, group-title="UK",Star Gold
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/587.m3u8
-#EXTINF:0, group-title="UK",B4u Movies
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/588.m3u8
-#EXTINF:0, group-title="UK",Sony movie
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/589.m3u8
-#EXTINF:0, group-title="UK",baby Tv
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/575.m3u8
-#EXTINF:0, group-title="UK",ZEE TV
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/601.m3u8
-#EXTINF:0, group-title="UK",ZEE CINEME HD
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/602.m3u8
 #EXTINF:0,group-title="DUBAI",Dubai Tv
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 #EXTINF:0,group-title="IRAN",VOA
